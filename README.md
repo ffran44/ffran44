@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:2ea043&height=200&section=header&text=Francisco%20Rissone&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=IT%20Technician%20%C2%B7%20CCNA%20%C2%B7%20Networking%20%26%20Infrastructure&descAlignY=56&descSize=16&animation=fadeIn" width="100%" alt="Francisco Rissone"/>
+<img src="assets/header.svg" width="100%" alt="Francisco Rissone — IT Technician · CCNA · Networking & Infrastructure"/>
 
 <p align="center">
   <a href="https://github.com/ffran44">
