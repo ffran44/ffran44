@@ -62,6 +62,18 @@ available: remote · hybrid · on-site
 
 ### 🚀 Featured projects
 
+<details open>
+<summary><b>🏋️ Athlos Training</b> — website for an online & in-person coaching business</summary>
+<br>
+
+Landing page for Athlos Training: 8-week training blocks with load tracking, body measurements and habit tracking. Includes interactive demos of the progression, measurements and habits sheets (estimated 1RM with the Epley formula, weekly volume per muscle, habit streaks).
+<br>
+Built with Next.js, deployed on Vercel.
+<br>
+🔗 [Live site](https://athlos-training.vercel.app/)
+
+</details>
+
 <details>
 <summary><b>🌍 Portfolio</b> — personal site built with Next.js</summary>
 <br>
